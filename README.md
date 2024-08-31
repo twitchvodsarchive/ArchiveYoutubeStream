@@ -1,6 +1,6 @@
 # ArchiveYoutubeStream
 This is python script that immediately archive(restream) the stream to your channel so you dont need to archive it manually
-# install component:
+# install component(ONLY WINDOWS):
 https://streamlink.github.io/install.html#windows (make sure)
 
 pip install streamlink
