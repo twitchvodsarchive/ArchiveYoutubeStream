@@ -22,13 +22,13 @@ In [channelid] just paste your own archive channel's @xxxxxx or channelid is ok 
 
 In [youtubestudiotab] just get the title of https://studio.youtube.com
 
-In [youtubedescription] view the instruction video and only copy //div.........'] (no ")) and paste to [youtubedescription]
+In [youtubedescription] view the instruction video(https://www.youtube.com/watch?v=jmqaz-MFJOM) and only copy //div.........'] (no ")) and paste to [youtubedescription]
 
-In [youtubeoffine] view the instruction video and only copy //div.........'] (no ")) and paste to [youtubeoffine]
+In [youtubeoffine] view the instruction video(https://www.youtube.com/watch?v=CbUzEwLleyQ) and only copy //div.........'] (no ")) and paste to [youtubeoffine]
 
-In [someonewaiting] view the instruction video and only copy //div.........'] (no ")) and paste to [someonewaiting]
+In [someonewaiting] view the instruction video(https://www.youtube.com/watch?v=JH9HgEgHnFY) and only copy //div.........'] (no ")) and paste to [someonewaiting]
 
-In [titleofliveschedule] and [schedulelive] if your archive person has a schedule live free chat you can left the [schedulelive] as true and view the instruction video and copy some kind of keyword to [titleofliveschedule] if your archive person dont have a schedule live free chat you need to edit the [schedulelive] to False and make [titleofliveschedule] blank thank you
+In [titleofliveschedule] and [schedulelive] if your archive person has a schedule live free chat you can left the [schedulelive] as true and view the instruction video(https://www.youtube.com/watch?v=lTtE447Hhmo) and copy some kind of keyword to [titleofliveschedule] if your archive person dont have a schedule live free chat you need to edit the [schedulelive] to False and make [titleofliveschedule] blank thank you
 
 other command please dont touch
 
