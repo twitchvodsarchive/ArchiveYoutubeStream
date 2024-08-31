@@ -3,6 +3,8 @@ This is python script that immediately archive(restream) the stream to your chan
 # install component(ONLY WINDOWS):
 https://streamlink.github.io/install.html#windows (make sure)
 
+https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe
+
 pip install streamlink
 
 pip install logging
