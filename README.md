@@ -42,12 +42,14 @@ A: Is for getting a direct link to Archive person's m3u8/hls stream so it will m
 
 Q: Is all the config list above all needs to be edit?
 
-A: Yes,It is very important all of the list above
+A: Yes,It is very important edit all of the list above
 
 Q: What is your channel?
 
 A: I have two active channel (PLEASE SUB THX)
+
 https://www.youtube.com/@ArchiveTwitchVods
+
 https://www.youtube.com/@FubukiArchive
 
 # Contact
