@@ -10,7 +10,7 @@ pip install logging
 pip install selenium
 
 # Instruction(config.json):
-please get already login to your archive channel cookie on youtube.com (main page) and json format and paste to config.json
+please get already login to your archive channel cookie(https://chrome.google.com/webstore/detail/hlkenndednhfkekhgcdicdfddnkalmdm) on youtube.com (main page) and json format and paste to config.json
 # Instruction(config.py):
 In [username] you need to paste your archive person's channelid without https://youtube.com/channel
 
