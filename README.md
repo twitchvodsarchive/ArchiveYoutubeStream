@@ -37,6 +37,8 @@ make sure everything works
 
 and recommanded using a not going to use brower(edge) and login your archive channel to get cookie so the cookie wont easily get expire
 
+and recommand first time pressing start.bat to start
+
 # Q&A
 Q: What does the yt_dlp folder do?
 
