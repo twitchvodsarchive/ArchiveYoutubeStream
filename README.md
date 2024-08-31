@@ -35,6 +35,8 @@ other command please dont touch
 # Tips of settings things up
 make sure everything works
 
+and recommanded using a not going to use brower(edge) and login your archive channel to get cookie so the cookie wont easily get expire
+
 # Q&A
 Q: What does the yt_dlp folder do?
 
